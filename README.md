@@ -10,31 +10,34 @@ Time spent: **12** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
-
-The following **optional** features are implemented:
+* [✔] The introduction section explains the background of the company and how many games remain unfunded.
+* [✔] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [✔] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [✔] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+  
 
 * [ ] List anything else that you can get done to improve the app functionality!
+      Hover animation on "games" buttons
+      Nav bar at the top
+      
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+mp4:
+https://github.com/user-attachments/assets/36df4232-a904-4dfb-96fc-f129424a689c
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+mp4 created with OBS (then converted to mp4)
+
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Patching up knowledge gaps
+Couldn't get recoding software to work, so I just used OBS and then converted it to .mp4 (from .mkv)
+
 
 ## License
 
