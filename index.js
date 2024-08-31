@@ -30,10 +30,23 @@ function addGamesToPage(games) {
 
     // loop over each item in the data
     for (let i = 0; i < games.length; i++) {
-            const game = games[i];
+        const gameCard = document.createElement('div');
+        gameCard.classList.add('game-card');
+
+        gameCard.innerHTML = `
+            <img class="game-img" src="${games[i].img}" alt="${games[i].name}">
+            <h3>${games[i].name}</h3>
+            <p>${games[i].description}</p>
+            <p>Pledged: ${games[i].pledged}</p>
+            <p>Goal: ${games[i].goal}</p>
+            <p>Backers: ${games[i].backers}</p>
+        `;
+
+        const gamesContainer = document.getElementById('games-container');
+        gamesContainer.appendChild(gameCard);
         }
     }
-
+    addGamesToPage(GAMES_JSON);
 
         // create a new div element, which will become the game card
 
@@ -152,7 +165,7 @@ const sortedGames =  GAMES_JSON.sort( (item1, item2) => {
     return item2.pledged - item1.pledged;
 });
 
-// use destructuring and the spread operator to grab the first and second games
+// use destructuring and the for operator to grab the first and second games
 
 // create a new element to hold the name of the top pledge game, then append it to the correct element
 
