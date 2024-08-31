@@ -39,6 +39,7 @@ mp4 created with OBS (then converted to mp4)
 --
 
 *Patching up knowledge gaps
+
 *Couldn't get the recording software to work, so I just used OBS and then converted it to .mp4 (from .mkv)
 
 
