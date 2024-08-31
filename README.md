@@ -1,8 +1,8 @@
-# WEB102 Prework - Crowdfunding webpage
+# WEB102 Prework - Crowdfunding Webpage
 
 Submitted by: Andrew Quach
 
-**Cordfunding webpage** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Cordfunding Webpage** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **12** hours spent in total
 
@@ -16,9 +16,11 @@ The following **required** functionality is completed:
 * [✔] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
   
 
-   List anything else that you can get done to improve the app functionality!
-      Hover animation on "games" buttons
-      Nav bar at the top
+  List anything else that you can get done to improve the app functionality!
+  ---
+  
+  Hover animation on "games" buttons
+  Nav bar at the top
       
 
 ## Video Walkthrough
@@ -35,6 +37,7 @@ mp4 created with OBS (then converted to mp4)
 
 *Describe any challenges encountered while building the app.*
 
+---
 
 Patching up knowledge gaps
 
