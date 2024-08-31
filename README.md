@@ -33,11 +33,12 @@ mp4 created with OBS (then converted to mp4)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+*Describe any challenges encountered while building the app.*
+
 
 Patching up knowledge gaps
 
-Couldn't get recording software to work, so I just used OBS and then converted it to .mp4 (from .mkv)
+Couldn't get the recording software to work, so I just used OBS and then converted it to .mp4 (from .mkv)
 
 
 ## License
