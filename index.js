@@ -174,7 +174,8 @@ let unfundedCount = GAMES_JSON.filter((games) =>{
 
 
 // create a string that explains the number of unfunded games using the ternary operator
-const description = `We have ${unfundedCount > 1 ? unfundedCount + ' unfunded games!' : '1 unfunded game!'}.`;
+const description = `A total of $${totalRaised.toLocaleString()} has been raised for ${GAMES_JSON.length} games! 
+    ${unfundedCount > 1 ? unfundedCount + ' games remain unfunded' : '1 game remains unfunded'}. We need your your help to find these amazing games!`;
 if (unfundedCount == 0){
     description = "We have no unfunded games!";
 }
