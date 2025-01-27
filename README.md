@@ -2,7 +2,7 @@
 
 Submitted by: Andrew Quach
 
-**Cordfunding Webpage** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Cordfunding Webpage** is a website for the company Sea Monster Crowdfunding that displays information about the games they've funded!
 
 Time spent: **12** hours spent in total
 
@@ -38,8 +38,7 @@ mp4 created with OBS (then converted to mp4)
 *Describe any challenges encountered while building the app.*
 --
 
-* Patching up knowledge gaps
-* Couldn't get the recording/GIF software to work, so I just used OBS and then converted it to .mp4 (from .mkv)
+* Patching up knowledge gaps=
 
 
 ## License
