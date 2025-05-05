@@ -38,7 +38,7 @@ mp4 created with OBS (then converted to mp4)
 *Describe any challenges encountered while building the app.*
 --
 
-* Patching up knowledge gaps=
+* Patching up knowledge gaps
 
 
 ## License
