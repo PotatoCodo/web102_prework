@@ -4,7 +4,7 @@ Submitted by: Andrew Quach
 
 **Cordfunding Webpage** is a website for the company Sea Monster Crowdfunding that displays information about the games they've funded!
 
-Time spent: **12** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
